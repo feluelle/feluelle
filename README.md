@@ -2,7 +2,7 @@
 
 My name is Felix.
 
-- 🔭 I’m currently working on [Apache Airflow](https://github.com/apache/airflow) and [Airflow-Diagrams](https://github.com/feluelle/airflow-diagrams)
+- 🔭 I’m currently working on [Apache Airflow](https://github.com/apache/airflow) and [Airflow Diagrams](https://github.com/feluelle/airflow-diagrams)
 - 🌱 I’m constantly learning
 - 💬 Ask me about anything
 - 😄 Pronouns: He
