@@ -2,8 +2,8 @@
 
 My name is Felix.
 
-- 🔭 I’m currently working on [Apache Airflow](https://github.com/apache/airflow) and [Airflow Diagrams](https://github.com/feluelle/airflow-diagrams)
-- 🌱 I’m constantly learning
+- 🔭 I’m currently working on [Apache Airflow](https://github.com/apache/airflow), [airflow-diagrams](https://github.com/feluelle/airflow-diagrams) & [great-data-building](https://github.com/feluelle/great-data-building)
+- 🌱 I’m currently learning [dbt](https://www.getdbt.com/)
 - 💬 Ask me about anything
 - 😄 Pronouns: He
 
