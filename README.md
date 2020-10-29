@@ -5,7 +5,7 @@ My name is **Felix**.
 - 🔭 I’m currently working on **[airflow-diagrams](https://github.com/feluelle/airflow-diagrams)** & **[great-data-building](https://github.com/feluelle/great-data-building)**
 - 🌱 I’m currently learning **[dbt](https://www.getdbt.com/)**
 - 💬 Ask me about anything
-- 😄 Pronouns: **He**
+- 😄 Pronouns: **He/Him**
 
 [![Felix' github stats](https://github-readme-stats.vercel.app/api?username=feluelle&show_icons=true&theme=dark)](https://github.com/feluelle)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feluelle&layout=compact&theme=dark&exclude_repo=poe-addons-organizer,chat-app,battleships,battleships-engine,conways-game-of-life)](https://github.com/feluelle)
