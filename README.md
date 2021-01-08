@@ -2,7 +2,7 @@
 
 My name is **Felix**.
 
-- 🔭 I’m currently working on **[airflow-diagrams](https://github.com/feluelle/airflow-diagrams)** & **[great-data-building](https://github.com/feluelle/great-data-building)**
+- 🔭 I’m currently working on **[finance-data-builder](https://github.com/feluelle/finance-data-builder)**
 - 🌱 I’m currently learning **[dbt](https://www.getdbt.com/)**
 - 💬 Ask me about anything
 - 😄 Pronouns: **He/Him**
