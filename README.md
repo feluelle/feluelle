@@ -7,8 +7,7 @@ My name is **Felix**.
 - 💬 Ask me about anything
 - 😄 Pronouns: **He/Him**
 
-[![Felix' github stats](https://github-readme-stats.vercel.app/api?username=feluelle&show_icons=true&theme=dark)](https://github.com/feluelle)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feluelle&layout=compact&theme=dark&exclude_repo=poe-addons-organizer,chat-app,battleships,battleships-engine,conways-game-of-life)](https://github.com/feluelle)
+![Metrics](https://metrics.lecoq.io/feluelle?template=classic&isocalendar=1&languages=1&followup=1&languages.skipped=poe-addons-organizer%2Cchat-app%2Cbattleships%2Cbattleships-engine%2Cconways-game-of-life&isocalendar.duration=full-year&config.timezone=Europe%2FBerlin)
 
 **Big fan of the Open Source Community. I love sharing ideas with each other and contributing to a open world of source code.**
 
