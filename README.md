@@ -3,7 +3,7 @@
 My name is **Felix**.
 
 - 🔭 I’m currently working on **[finance-data-builder](https://github.com/feluelle/finance-data-builder)**
-- 🌱 I’m currently learning **[dbt](https://www.getdbt.com/)**
+- 🌱 I’m currently learning **[terraform](https://www.terraform.io/)** and **[kubernetes](https://kubernetes.io/)**
 - 💬 Ask me about anything
 - 😄 Pronouns: **He/Him**
 
