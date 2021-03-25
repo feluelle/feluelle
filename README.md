@@ -9,9 +9,9 @@ My name is **Felix**.
 
 **Big fan of the Open Source Community. I love sharing ideas with each other and contributing to a open world of source code.**
 
-[![DBT](https://github-readme-stats.vercel.app/api/pin/?username=fishtown-analytics&repo=dbt&theme=dark)](https://github.com/fishtown-analytics/dbt)
-[![Great Expectatins](https://github-readme-stats.vercel.app/api/pin/?username=great-expectations&repo=great_expectations&theme=dark)](https://github.com/great-expectations/great_expectations)
+[![DBT](https://github-readme-stats.vercel.app/api/pin/?username=fishtown-analytics&repo=dbt&bg_color=00000000&text_color=2d77dc)](https://github.com/fishtown-analytics/dbt)
+[![Great Expectatins](https://github-readme-stats.vercel.app/api/pin/?username=great-expectations&repo=great_expectations&bg_color=00000000&text_color=2d77dc)](https://github.com/great-expectations/great_expectations)
 
 **Committer @ [Apache Software Foundation](https://www.apache.org/) - Find out more about the ASF in the [Trillions and Trillions Served](https://www.youtube.com/watch?v=JUt2nb0mgwg) documentary.** ❤️
 
-[![Apache Airflow](https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=airflow&theme=dark)](https://github.com/apache/airflow)
+[![Apache Airflow](https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=airflow&bg_color=00000000&text_color=2d77dc)](https://github.com/apache/airflow)
