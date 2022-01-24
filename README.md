@@ -2,7 +2,7 @@
 
 My name is **Felix**.
 
-- 🔭 I’m currently working on **[kind-data-platform](https://github.com/feluelle/kind-data-platform)**
+- 🔭 I’m currently working on **[airflow-diagrams](https://github.com/feluelle/airflow-diagrams)** and **[kind-data-platform](https://github.com/feluelle/kind-data-platform)**
 - 🌱 I’m currently learning **[terraform](https://www.terraform.io/)** and **[kubernetes](https://kubernetes.io/)**
 - 💬 Ask me about anything
 - 😄 Pronouns: **He/Him**
