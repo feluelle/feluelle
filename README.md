@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-My name is **Felix** 👨🏼
-
-I'm a big fan of **Open Source** Communities. I love sharing ideas with each other and contributing to an open world of source code. 👨🏼‍💻
+My name is **Felix**. I am Data Engineer 👨🏼‍💻 and Open Sourcerer 🧙
 
 - 🔭 I’m currently working on **[airflow-diagrams](https://github.com/feluelle/airflow-diagrams)** and **[kind-data-platform](https://github.com/feluelle/kind-data-platform)**
 - 🌱 I’m currently learning **[terraform](https://www.terraform.io/)** and **[kubernetes](https://kubernetes.io/)**
