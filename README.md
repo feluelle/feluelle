@@ -2,7 +2,7 @@
 
 My name is **Felix**. I am **Data Engineer** 👨🏼‍💻 and **Open Sourcerer** 🧙.
 
-- 🔭 I’m currently working on **[airflow-diagrams](https://github.com/feluelle/airflow-diagrams)** and **[kind-data-platform](https://github.com/feluelle/kind-data-platform)**
+- 🔭 I’m currently working on **[airflint](https://github.com/feluelle/airflint)** and **[airflow-diagrams](https://github.com/feluelle/airflow-diagrams)**
 - 🌱 I’m currently learning **[spark](https://spark.apache.org/)**
 - 📪 You can reach out to me on **[LinkedIn](https://www.linkedin.com/in/feluelle/)**
 
